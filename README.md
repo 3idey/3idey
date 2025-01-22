@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **elaidya225@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dDshBwkt-5aGdIOSXHJRBW_ydZzCgVHI/edit?usp=drive_link&ouid=111036408881939019644&rtpof=true&sd=true](https://docs.google.com/document/d/1dDshBwkt-5aGdIOSXHJRBW_ydZzCgVHI/edit?usp=drive_link&ouid=111036408881939019644&rtpof=true&sd=true)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1dDshBwkt-5aGdIOSXHJRBW_ydZzCgVHI/edit?usp=drive_link&ouid=111036408881939019644&rtpof=true&sd=true" target="_blank"> CV </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
