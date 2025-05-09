@@ -24,7 +24,9 @@
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me <br>I'm a Backend Developer (PHP)<br>Passionate about CP</h3>
+<h3 align="left">👩‍💻  About Me 
+  
+  <br>I'm a Backend Developer (PHP)<br>Passionate about CP</h3>
 
 ###
 
