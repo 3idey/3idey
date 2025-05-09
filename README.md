@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate problem solver using c++</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m a **BackEnd Devolper using PHP and Laravel**
 
 - 📫 How to reach me **elaidya225@gmail.com**
 
